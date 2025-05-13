@@ -1,0 +1,928 @@
+customerID,gender,age_first_order,user_agent_brand,user_agent_os,ip_address_geopoint,ip_address_country,campaign,pages_visited_avg
+vy1viz,M,71,Chrome,Windows,POINT(29.9529 31.2162),Egypt,false,19.0
+eg1hpg,M,11,Chrome,Windows,POINT(10.3889 53.9667),Germany,false,6.0
+mfquov,M,63,Firefox,Linux,POINT(-82.5036 27.9482),United States,false,10.0
+otb1in,,32,Safari,MacOS X,POINT(126.9741 37.5112),South Korea,false,8.0
+iqwesj,M,,Chrome,Windows,POINT(-97.822 37.751),United States,true,10.0
+6e3sj2,F,26,Chrome,Windows,POINT(114.1374 22.5318),China,false,11.0
+et2rx1,F,,Chrome,MacOS X,POINT(35.4697 40.8725),Turkey,false,16.0
+mnf24z,F,54,Chrome,Windows,POINT(-0.0955 51.5095),United Kingdom,true,14.0
+anqmn9,F,55,Firefox,Windows,POINT(-97.1923 31.5338),United States,false,17.0
+nf1apz,,57,Chrome,Windows,POINT(-79.3716 43.6319),Canada,false,9.0
+cxcp1r,F,55,Edge,Windows,POINT(-46.6409 -23.6283),Brazil,false,16.0
+fh5sft,,42,Safari,MacOS X,POINT(10.7559 59.9452),Norway,true,12.0
+6ya243,F,58,Chrome,MacOS X,POINT(-0.1224 51.4964),United Kingdom,false,9.0
+jhvq7k,F,53,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,15.0
+kwsu1b,F,75,Chrome,Windows,POINT(-5 32),Morocco,true,12.0
+hbwqvq,M,63,Safari,MacOS X,POINT(-58.3845 -34.6022),Argentina,false,8.0
+knsf54,F,64,Chrome,Windows,POINT(-0.0755 51.5834),United Kingdom,false,9.0
+wbf4ye,M,35,Chrome,Windows,POINT(77.5855 12.9634),India,true,16.0
+527o13,M,16,Chrome,Windows,POINT(-97.822 37.751),United States,true,10.0
+ivm30e,F,39,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,15.0
+ce2rom,F,55,Firefox,Windows,POINT(-79.3716 43.6319),Canada,true,12.0
+wk4598,F,71,Chrome,MacOS X,POINT(38.0003 7.9959),Ethiopia,true,14.0
+pjat72,M,44,Chrome,MacOS X,POINT(33.8551 40.4398),Turkey,false,10.0
+g7pvsk,F,75,Safari,MacOS X,,,true,12.0
+6p79a1,F,14,Chrome,Windows,POINT(11.2356 43.7891),Italy,false,11.0
+o4pflg,M,,Chrome,Windows,POINT(140.3811 37.2867),Japan,false,11.0
+6zbh7y,,44,Chrome,Windows,POINT(-97.822 37.751),United States,true,17.0
+jswxxb,M,70,Chrome,Windows,POINT(-75.5875 39.9444),United States,false,14.0
+sby0iz,F,,Chrome,Windows,POINT(-97.822 37.751),United States,true,6.0
+bdazux,F,66,Chrome,MacOS X,POINT(1.3445 43.4673),France,false,11.0
+kwcwpf,F,56,Chrome,Windows,POINT(-97.822 37.751),United States,false,11.0
+wgirc1,M,49,Chrome,Linux,POINT(103.8554 1.3036),Singapore,false,12.0
+vlwtme,M,52,Chrome,Windows,POINT(139.6895 35.6897),Japan,true,10.0
+vxb43x,,76,Chrome,MacOS X,POINT(113.722 34.7732),China,true,19.0
+s9eh1x,F,51,Chrome,Windows,POINT(-97.822 37.751),United States,true,12.0
+c06n7u,,48,Chrome,Windows,POINT(-2 8),Ghana,true,12.0
+e27wjq,,38,Chrome,Windows,POINT(126.9741 37.5112),South Korea,true,8.0
+bpwcob,F,53,Chrome,MacOS X,POINT(-0.1224 51.4964),United Kingdom,false,11.0
+7ylwht,F,73,Chrome,Windows,POINT(-1.0389 50.7851),United Kingdom,true,9.0
+xj1fxh,F,56,Chrome,MacOS X,POINT(-51.8364 -21.7755),Brazil,false,7.0
+stg09k,F,59,Firefox,Windows,POINT(-3.6934 40.4163),Spain,true,21.0
+2zf61f,F,30,Chrome,Windows,POINT(77.006 20.0063),India,true,9.0
+0enesz,F,58,Chrome,Windows,POINT(-97.822 37.751),United States,false,9.0
+whnt7r,F,74,Chrome,Windows,POINT(-71.408 41.8244),United States,true,13.0
+cdhkmo,F,61,Chrome,Windows,POINT(139.75 35.6948),Japan,true,10.0
+j026ut,M,68,Chrome,Windows,POINT(26.3866 58.7473),Estonia,true,7.0
+3f58ve,M,58,Chrome,Windows,POINT(25.6394 42.4361),Bulgaria,false,14.0
+68o0m2,M,,Chrome,MacOS X,POINT(121.4054 31.0442),China,false,11.0
+h0hdsg,F,34,Firefox,MacOS X,POINT(24 -29),South Africa,false,12.0
+yq8iki,M,33,Chrome,MacOS X,POINT(7.6639 45.0914),Italy,true,3.0
+ygf1uz,M,34,Firefox,Windows,POINT(-97.822 37.751),United States,false,11.0
+j94uc8,F,43,Chrome,Windows,POINT(113.722 34.7732),China,false,14.0
+px972f,M,23,Chrome,MacOS X,POINT(-2 8),Ghana,false,7.0
+qof7d2,M,49,Firefox,Windows,POINT(143.2104 -33.494),Australia,false,15.0
+ey8dr6,M,65,Chrome,MacOS X,POINT(102.7183 25.0389),China,false,9.0
+u8157m,M,55,Chrome,Windows,POINT(-121.6164 36.6808),United States,false,24.0
+4q2b6t,F,57,Chrome,Windows,POINT(-94.5778 39.1027),United States,false,9.0
+3kooil,,49,Safari,MacOS X,POINT(-46.6359 -23.5335),Brazil,false,17.0
+uo9pe2,F,,Chrome,Windows,POINT(-79.614 43.5873),Canada,true,15.0
+jk9aar,,68,Chrome,MacOS X,POINT(24.9349 60.1717),Finland,false,12.0
+0nqsqk,M,43,Chrome,Windows,POINT(-82.0841 33.5218),United States,false,8.0
+rhp7h6,F,68,Chrome,Windows,POINT(-122.3993 37.7642),United States,false,11.0
+rl8nrd,F,17,Chrome,MacOS X,POINT(-9.1359 38.7057),Portugal,false,15.0
+wxh3vl,M,53,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,12.0
+ng97q4,F,60,Chrome,Windows,POINT(103.8014 1.3673),Singapore,false,14.0
+pe49g6,M,37,Chrome,Windows,POINT(-3.6934 40.4163),Spain,false,11.0
+nfhzns,F,74,Chrome,Windows,POINT(-87.8795 30.5012),United States,false,16.0
+fewvac,F,58,Chrome,MacOS X,POINT(-78.1539 38.7095),United States,false,15.0
+3s72i3,M,69,Chrome,Windows,POINT(139.6895 35.6897),Japan,true,10.0
+zx3sqv,M,34,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,13.0
+e99hop,M,59,Firefox,Windows,POINT(-97.822 37.751),United States,false,8.0
+49n3vk,,28,Safari,MacOS X,POINT(-97.822 37.751),United States,false,11.0
+ihmivo,F,29,Chrome,Windows,POINT(2.8271 50.4129),France,true,12.0
+csz6ng,F,74,Chrome,Windows,POINT(103.8554 1.3036),Singapore,true,13.0
+jn6pa0,F,67,Chrome,Windows,POINT(-56.1702 -34.8576),Uruguay,false,4.0
+whl2qy,F,61,IE,Windows,POINT(-97.822 37.751),United States,false,20.0
+2iy99l,M,50,Chrome,Windows,POINT(-97.822 37.751),United States,false,10.0
+xwipi4,M,22,Firefox,Windows,POINT(-97.822 37.751),United States,true,16.0
+q0damz,M,49,Firefox,Windows,POINT(29.9529 31.2162),Egypt,true,13.0
+dj71pe,F,52,Chrome,Windows,POINT(-97.822 37.751),United States,true,13.0
+fq1oku,,72,Chrome,Windows,POINT(0.5538 45.6413),France,false,11.0
+i9q7q3,M,71,Chrome,Windows,POINT(-90.3705 38.6706),United States,false,15.0
+lvi52h,,69,Chrome,Windows,POINT(-117.8419 33.6454),United States,false,9.0
+3s6iii,M,47,Chrome,Windows,POINT(143.2104 -33.494),Australia,true,12.0
+q6x1w7,F,24,Chrome,Windows,POINT(-90.8534 38.804),United States,false,13.0
+4mltkz,M,,Chrome,Windows,POINT(115.3885 25.137),China,false,10.0
+u47dxr,F,78,Chrome,Windows,POINT(140.87 38.2676),Japan,true,11.0
+bu2e82,M,50,Firefox,Windows,POINT(-97.822 37.751),United States,false,14.0
+c5obb7,,50,Chrome,Windows,POINT(-70.5382 44.5642),United States,false,14.0
+32znyi,F,11,Chrome,Windows,,,false,7.0
+ozz0s7,M,,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,7.0
+zu5c7w,F,58,Chrome,Windows,POINT(-97.822 37.751),United States,false,12.0
+zxz1x9,M,51,Firefox,Windows,POINT(120.6844 24.144),Taiwan,true,17.0
+y41mi4,F,70,Chrome,Windows,POINT(-97.822 37.751),United States,false,8.0
+mk8vxd,M,31,Chrome,Windows,POINT(-97.822 37.751),United States,true,13.0
+ma9ap7,F,40,Chrome,Windows,POINT(9.491 51.2993),Germany,true,10.0
+et74k6,M,11,Safari,MacOS X,POINT(-97.822 37.751),United States,false,15.0
+83gs1i,,50,Chrome,Windows,POINT(24 -29),South Africa,false,7.0
+4ajz8l,M,50,Chrome,Windows,POINT(4.8995 52.3824),Netherlands,true,18.0
+64opjm,M,54,Safari,MacOS X,POINT(128.653 35.2733),South Korea,false,13.0
+iskf6z,F,71,Chrome,Windows,POINT(-44.918 -20.115),Brazil,true,14.0
+c0indi,,54,Edge,Windows,POINT(126.9741 37.5112),South Korea,false,13.0
+zypnti,F,52,Chrome,Windows,POINT(34.75 31.5),Israel,false,6.0
+rlbhj9,F,47,Firefox,Linux,POINT(-82.0858 29.1995),United States,true,11.0
+t2zrky,M,48,Chrome,MacOS X,POINT(-74.277 40.5833),United States,false,13.0
+mlgk2n,F,34,Firefox,Windows,POINT(-97.822 37.751),United States,false,13.0
+q9ynau,F,59,Chrome,Windows,POINT(121.4054 31.0442),China,false,20.0
+6gb4vi,,57,Safari,MacOS X,POINT(-97.822 37.751),United States,false,9.0
+fe5lzo,F,63,Chrome,MacOS X,POINT(55.9053 54.799),Russia,false,8.0
+67mli6,M,12,Firefox,Windows,POINT(-97.822 37.751),United States,false,16.0
+7r78ji,M,30,Safari,MacOS X,POINT(-97.822 37.751),United States,true,14.0
+jnl71e,F,21,Chrome,MacOS X,POINT(-5 32),Morocco,true,14.0
+6l50en,M,46,Firefox,Windows,POINT(-0.236 52.5852),United Kingdom,false,10.0
+hl3b0c,M,,Chrome,MacOS X,POINT(18.7764 50.3066),Poland,false,12.0
+86cafw,F,21,Chrome,MacOS X,POINT(9.491 51.2993),Germany,true,18.0
+rw0q47,F,75,Firefox,Windows,POINT(-97.822 37.751),United States,true,12.0
+7xdra7,F,30,Chrome,Windows,POINT(9.491 51.2993),Germany,false,12.0
+0mec3t,M,20,Chrome,Windows,POINT(-86.8125 33.4979),United States,false,11.0
+6r0cg6,,61,Chrome,Windows,POINT(2.6225 48.9373),France,true,9.0
+3tea4s,F,72,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,12.0
+ymujvm,F,61,Chrome,Windows,POINT(-97.822 37.751),United States,false,2.0
+2tkzta,F,28,Firefox,Windows,POINT(-97.822 37.751),United States,true,12.0
+up9kcx,M,28,Chrome,MacOS X,POINT(103.8014 1.3673),Singapore,false,11.0
+a6tdq1,M,32,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,18.0
+meqdtr,F,43,Chrome,Windows,POINT(44.8387 41.7163),Georgia,true,15.0
+lazz1r,F,37,Chrome,Windows,POINT(-97.822 37.751),United States,false,8.0
+jsaxqc,F,,Chrome,Windows,POINT(-97.822 37.751),United States,false,9.0
+nxdc7s,F,29,Chrome,Windows,POINT(24.9347 60.1719),Finland,true,10.0
+b6tskc,F,,Chrome,MacOS X,POINT(24 -29),South Africa,true,14.0
+zuf04l,M,20,Chrome,Windows,POINT(139.745 35.6887),Japan,true,16.0
+n0xyih,F,52,Chrome,Windows,POINT(-45.4247 -22.4231),Brazil,true,12.0
+m5ug6i,M,65,Firefox,Windows,POINT(151.0439 -33.8095),Australia,false,19.0
+hqor59,M,63,Chrome,Windows,POINT(-97.822 37.751),United States,false,8.0
+2mkmxk,F,61,Firefox,Windows,POINT(-97.822 37.751),United States,false,9.0
+ypkf88,F,,Chrome,Windows,POINT(10.0497 53.5742),Germany,false,17.0
+h2zb0s,M,47,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,8.0
+c6rf3s,M,32,Chrome,Windows,POINT(-75.2374 4.4337),Colombia,false,14.0
+l9et3k,M,,Chrome,Windows,POINT(-97.822 37.751),United States,false,12.0
+c6x7vn,M,40,Firefox,Windows,POINT(-97.822 37.751),United States,false,7.0
+vwssrn,M,42,Edge,Windows,POINT(4.8995 52.3824),Netherlands,true,21.0
+ejp9hi,F,,Chrome,Windows,POINT(-97.822 37.751),United States,true,14.0
+1cpq9f,M,64,Chrome,Windows,POINT(16.9775 51.1397),Poland,true,6.0
+x84wr4,M,62,Chrome,Windows,POINT(-97.822 37.751),United States,false,9.0
+2t9bhq,M,33,Firefox,Linux,POINT(4.3447 50.8509),Belgium,false,5.0
+joklf5,M,66,Safari,MacOS X,POINT(127.0077 37.4973),South Korea,true,15.0
+jld699,M,40,Chrome,MacOS X,POINT(-70.9156 -53.1471),Chile,true,14.0
+epn6md,M,32,Safari,MacOS X,POINT(-97.822 37.751),United States,false,10.0
+wim2cd,M,24,Edge,Windows,POINT(-4.7221 41.5852),Spain,false,10.0
+kvj4a5,F,51,Safari,MacOS X,POINT(121.4054 31.0442),China,false,9.0
+qjz11c,M,55,Chrome,Windows,POINT(113.722 34.7732),China,true,14.0
+skd0tc,F,54,Chrome,MacOS X,POINT(-97.1814 34.1602),United States,true,23.0
+zbzfji,M,31,Firefox,Windows,POINT(-97.822 37.751),United States,true,23.0
+2p6vp8,M,70,Firefox,Windows,POINT(139.632 35.4706),Japan,true,12.0
+qwq7ie,M,45,Chrome,MacOS X,POINT(6.4377 51.1966),Germany,true,11.0
+57ha8h,F,57,Chrome,Windows,POINT(-97.822 37.751),United States,true,10.0
+30w6fn,M,57,Chrome,Windows,POINT(4.9233 45.7822),France,false,10.0
+kfcl8c,F,34,Chrome,Windows,POINT(-97.822 37.751),United States,true,14.0
+mu1tec,M,31,IE,Windows,POINT(140.4695 37.7496),Japan,true,15.0
+2w94o0,,48,Chrome,Linux,POINT(-43.2192 -22.8305),Brazil,false,11.0
+qi06g2,F,57,Chrome,Windows,POINT(113.722 34.7732),China,true,12.0
+93wqa2,M,55,Chrome,MacOS X,POINT(-2 8),Ghana,false,11.0
+2csd54,M,75,Firefox,MacOS X,POINT(-97.822 37.751),United States,true,13.0
+97ve00,,56,Chrome,MacOS X,POINT(113.0378 36.0406),China,true,13.0
+eke44i,F,30,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,14.0
+sxr7dk,F,31,Chrome,Windows,POINT(2.9519 49.726),France,true,17.0
+jhohxm,M,44,Chrome,Windows,POINT(-97.822 37.751),United States,true,9.0
+quioys,,60,Firefox,Windows,POINT(-97.822 37.751),United States,true,7.0
+9cei07,F,37,Firefox,Windows,POINT(-0.1224 51.4964),United Kingdom,true,7.0
+ljy4na,F,63,Chrome,Windows,POINT(101.6727 3.1418),Malaysia,true,11.0
+inn2ec,F,32,Chrome,Windows,POINT(-81.928 27.4127),United States,true,13.0
+tn3exr,M,19,Chrome,Windows,POINT(106.8272 -6.1728),Indonesia,true,7.0
+f204u0,M,71,Chrome,Windows,POINT(-97.822 37.751),United States,false,13.0
+kbk885,M,35,Chrome,Windows,POINT(77.625 14.6802),India,true,8.0
+f3i80l,F,,Chrome,Windows,POINT(120.081 29.3187),China,true,12.0
+q7qvto,F,49,Chrome,Windows,POINT(2.3387 48.8582),France,false,10.0
+eisbav,F,50,Chrome,Windows,POINT(-97.822 37.751),United States,true,14.0
+begzyc,F,,Firefox,Windows,POINT(-99.1427 19.4354),Mexico,true,13.0
+us9x9u,F,64,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,9.0
+okhnke,M,48,Chrome,Windows,POINT(-97.822 37.751),United States,true,11.0
+6uqjwt,M,62,Safari,MacOS X,POINT(-97.822 37.751),United States,true,14.0
+hyw8st,F,,Chrome,Windows,POINT(-97.822 37.751),United States,false,15.0
+rrh4gp,M,76,Chrome,Linux,POINT(116.6605 39.9006),China,true,14.0
+6q51y1,F,50,Chrome,Windows,POINT(126.9167 37.3907),South Korea,false,11.0
+fqqt6u,F,63,Chrome,Windows,POINT(-97.822 37.751),United States,false,16.0
+wr414a,M,,Chrome,Windows,POINT(12.1097 43.1479),Italy,false,14.0
+y1apo3,M,36,Chrome,Windows,POINT(4.4406 52.008),Netherlands,false,12.0
+a1lvys,F,,Chrome,Windows,POINT(31.2194 30.008),Egypt,false,8.0
+2tg4go,,70,Chrome,Windows,POINT(7.9296 53.658),Germany,false,8.0
+4qa3bj,M,48,Firefox,Windows,POINT(-96.9201 19.5479),Mexico,false,12.0
+9goeqi,F,40,Chrome,Windows,POINT(-117.1846 33.1165),United States,false,12.0
+dzhuwk,F,57,Firefox,Windows,POINT(151.2006 -33.8715),Australia,true,15.0
+m4udra,F,50,Chrome,Windows,POINT(-81.8662 40.2738),United States,true,11.0
+q15zm7,M,12,Chrome,Windows,POINT(-97.822 37.751),United States,true,16.0
+de8o6f,F,,Chrome,MacOS X,POINT(113.722 34.7732),China,false,11.0
+uonqek,M,32,Safari,MacOS X,POINT(113.722 34.7732),China,false,11.0
+1qwzf6,M,12,Chrome,Windows,POINT(-75.6385 45.4446),Canada,false,13.0
+hg43fs,M,45,Firefox,MacOS X,POINT(118.7738 32.0589),China,false,12.0
+ab84hg,F,50,Chrome,Windows,POINT(140.1187 35.6029),Japan,false,9.0
+kukbyj,M,51,Safari,MacOS X,POINT(36.1707 41.3485),Turkey,false,8.0
+afzbw0,F,46,Chrome,MacOS X,POINT(-72.5992 -38.7315),Chile,false,7.0
+zeckpw,M,57,Chrome,MacOS X,POINT(116.385 39.9285),China,false,19.0
+30x84t,F,19,Chrome,MacOS X,POINT(1.5001 43.5179),France,false,10.0
+y6j3qh,F,42,Firefox,MacOS X,POINT(-97.822 37.751),United States,false,14.0
+36opv9,F,32,Chrome,Windows,POINT(-112.0876 33.4512),United States,false,8.0
+kcnpj0,F,59,Firefox,Windows,POINT(106.6581 10.8326),Vietnam,false,12.0
+6wwzql,F,32,Chrome,Windows,POINT(103.8014 1.3673),Singapore,true,13.0
+94qxrr,F,65,Firefox,MacOS X,POINT(3.8809 43.6107),France,true,20.0
+9b9lo3,M,,Chrome,Windows,POINT(121 23.5),Taiwan,false,21.0
+f5uvlj,F,67,Chrome,Windows,POINT(-7.6184 33.5922),Morocco,true,16.0
+ypkhxe,F,,Firefox,Windows,POINT(-49.2908 -25.5026),Brazil,false,13.0
+vqc1ws,F,47,Firefox,Windows,POINT(113.722 34.7732),China,false,5.0
+7f9nnu,M,53,Safari,MacOS X,POINT(-80.6339 24.9216),United States,false,11.0
+5tr0bc,F,76,Chrome,Windows,POINT(103.8014 1.3673),Singapore,true,9.0
+ogbbde,M,17,Firefox,Windows,POINT(-97.822 37.751),United States,false,14.0
+whfuni,M,62,Chrome,Windows,POINT(-82.4605 28.1355),United States,false,20.0
+4v128t,F,50,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,15.0
+onre3q,F,59,Chrome,Windows,POINT(113.722 34.7732),China,false,15.0
+4n3egv,M,57,Safari,MacOS X,POINT(113.722 34.7732),China,false,15.0
+e5ensp,M,47,Chrome,Windows,POINT(-43.3436 -22.9485),Brazil,false,12.0
+d02x3t,M,,Firefox,Linux,POINT(8.1551 47.1449),Switzerland,true,13.0
+5zgpdb,F,53,Chrome,Windows,POINT(117.8146 30.9309),China,false,9.0
+cj9in5,F,45,Chrome,Windows,POINT(-118.2611 34.074),United States,false,8.0
+7fz6hp,M,46,Chrome,Windows,POINT(-97.822 37.751),United States,true,16.0
+te882i,F,27,Safari,MacOS X,POINT(117.2155 23.9671),China,true,10.0
+tc89oh,M,55,Chrome,Windows,POINT(113.2539 23.1181),China,false,12.0
+n78xto,F,47,Chrome,MacOS X,POINT(-43.3436 -22.9485),Brazil,false,3.0
+x9jbhi,F,25,Firefox,Windows,POINT(-8.6912 38.0204),Portugal,false,11.0
+60el1k,M,33,Chrome,Linux,POINT(-97.822 37.751),United States,true,10.0
+iom28c,,44,Chrome,MacOS X,POINT(17 -22),Namibia,true,15.0
+43kvit,M,38,Firefox,Windows,POINT(-3.6159 40.5443),Spain,false,12.0
+aa3bjj,M,40,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,15.0
+k2jj92,,55,Safari,MacOS X,,,false,13.0
+84clxg,M,71,Chrome,Linux,POINT(-97.822 37.751),United States,true,13.0
+fgydxt,F,,Firefox,Windows,POINT(-120.0937 50.5437),Canada,true,12.0
+2mz9fm,F,52,Chrome,Windows,POINT(126.9156 35.1496),South Korea,false,6.0
+vrdfev,M,55,Chrome,Windows,POINT(28.9757 41.0197),Turkey,true,12.0
+1nc493,M,58,Chrome,Windows,POINT(-43.2192 -22.8305),Brazil,false,8.0
+5ec7hk,,21,Safari,MacOS X,POINT(-49.0969 -26.8766),Brazil,true,8.0
+ke14m1,F,,Chrome,Windows,POINT(113.722 34.7732),China,true,11.0
+it9osy,M,37,Chrome,MacOS X,POINT(2.2924 48.7999),France,false,9.0
+q018nw,F,64,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,15.0
+dzqfan,F,41,Chrome,MacOS X,POINT(-85.9651 39.9564),United States,false,14.0
+b19hnz,,62,Chrome,MacOS X,POINT(135.4179 34.7148),Japan,true,13.0
+9dpiku,F,66,Chrome,Windows,POINT(121.4054 31.0442),China,true,17.0
+kpsb3e,M,67,Chrome,MacOS X,POINT(38 1),Kenya,false,12.0
+qqzxtq,F,66,Chrome,MacOS X,POINT(2.3387 48.8582),France,true,13.0
+ur6kbo,F,67,Safari,MacOS X,POINT(16.3801 48.2048),Austria,true,7.0
+lkz7ww,,28,Chrome,Windows,POINT(-38.5287 -3.717),Brazil,true,15.0
+20x3o2,M,50,Safari,MacOS X,POINT(9.491 51.2993),Germany,true,12.0
+zf0zgx,F,21,Chrome,Windows,POINT(-75.1236 40.1578),United States,false,12.0
+c7aqeu,M,59,Chrome,MacOS X,POINT(73.5097 17.5365),India,true,12.0
+cx0vb4,F,57,Firefox,Windows,POINT(-97.822 37.751),United States,true,12.0
+szubpb,F,40,Edge,Windows,POINT(114.1374 22.5318),China,false,13.0
+6rvjx4,M,62,Chrome,Windows,POINT(-87.979 42.1124),United States,true,13.0
+7ssrdc,F,29,Chrome,Windows,POINT(-64.516 -31.4864),Argentina,false,7.0
+rme2pz,M,56,Chrome,Linux,POINT(-5 32),Morocco,false,16.0
+tjdxps,F,57,Chrome,Windows,POINT(11.0314 50.9851),Germany,false,8.0
+inry59,M,12,Firefox,Windows,POINT(55.3087 25.2633),United Arab Emirates,true,12.0
+xy79vt,M,43,Chrome,Windows,POINT(113.722 34.7732),China,false,7.0
+hj48t9,M,68,Chrome,MacOS X,POINT(37.6171 55.7483),Russia,true,16.0
+1oxhoy,,22,Chrome,Windows,POINT(-97.822 37.751),United States,true,14.0
+2ey0lm,F,74,IE,Windows,POINT(-6.8484 34.0123),Morocco,false,11.0
+1bl0gs,F,54,Firefox,Windows,POINT(18.4667 -34.1167),South Africa,false,14.0
+o1sfi8,F,54,Chrome,Windows,POINT(12.1097 43.1479),Italy,false,14.0
+rmepqm,F,67,Chrome,MacOS X,POINT(139.6895 35.6897),Japan,true,13.0
+y7h5it,F,60,Edge,Windows,POINT(121 23.5),Taiwan,false,10.0
+lohzrh,,76,Firefox,Windows,POINT(31.2852 30.0778),Egypt,true,10.0
+ym5nw0,F,45,IE,Windows,POINT(-97.822 37.751),United States,false,11.0
+60wxqc,M,70,Chrome,MacOS X,POINT(24.4106 59.2982),Estonia,true,15.0
+ua1neu,M,46,Chrome,Windows,POINT(-97.822 37.751),United States,true,14.0
+c5vm2c,M,33,Safari,MacOS X,POINT(9.491 51.2993),Germany,false,11.0
+j6u3fb,,41,Chrome,Linux,POINT(2.3387 48.8582),France,true,14.0
+06ch8c,F,56,Firefox,Windows,POINT(16.028 54.1358),Poland,false,12.0
+80c6zi,M,41,Chrome,Windows,POINT(121.4054 31.0442),China,false,18.0
+yvdgay,F,58,Firefox,Windows,POINT(-97.822 37.751),United States,false,16.0
+ztxiqc,F,71,Chrome,Windows,POINT(-55.0849 5.881),Suriname,true,16.0
+ue8ou7,F,42,Chrome,Windows,POINT(121 23.5),Taiwan,true,19.0
+jp8gqc,,30,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,11.0
+9dbavv,M,,Chrome,Windows,POINT(-89.4889 41.8446),United States,false,10.0
+wn6yta,M,31,Chrome,Windows,POINT(40.972 57.0006),Russia,false,13.0
+c1x3u6,F,71,Chrome,Windows,POINT(-97.822 37.751),United States,true,14.0
+55sbkq,F,72,Chrome,MacOS X,POINT(-87.7937 41.6619),United States,false,17.0
+jszesc,F,54,Chrome,Windows,POINT(-43.3436 -22.9485),Brazil,true,14.0
+k2i845,M,68,Chrome,Windows,POINT(-0.1224 51.4964),United Kingdom,true,14.0
+kn0kgx,M,75,Chrome,MacOS X,POINT(-77.4903 39.0469),United States,false,8.0
+58mahl,F,75,Safari,MacOS X,POINT(-117.1367 32.7967),United States,false,13.0
+9fpscf,F,51,Chrome,Windows,POINT(15.5 45.1667),Croatia,true,12.0
+ttcmms,M,47,Safari,MacOS X,POINT(-77.0281 -12.0439),Peru,true,12.0
+ioryxc,F,46,Chrome,Windows,POINT(-2.2542 53.382),United Kingdom,true,7.0
+z4egcx,F,13,Chrome,Windows,POINT(113.722 34.7732),China,false,17.0
+0cmjxn,F,70,Safari,MacOS X,POINT(-40.4692 -20.3005),Brazil,false,8.0
+5zutfz,M,16,Chrome,MacOS X,POINT(-82.8881 42.8398),United States,true,12.0
+lqum6q,F,58,Chrome,Windows,POINT(106.8272 -6.1728),Indonesia,false,12.0
+17gg6p,M,52,Chrome,Linux,POINT(-77.4903 39.0469),United States,true,11.0
+xt57ev,F,72,Chrome,MacOS X,POINT(114.1501 22.2908),Hong Kong,false,8.0
+az8xi0,F,54,Chrome,Windows,POINT(37.6068 55.7386),Russia,false,10.0
+efznaz,F,72,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,9.0
+fug9s3,F,65,Chrome,Windows,POINT(126.9741 37.5112),South Korea,true,13.0
+0ox4wg,M,54,IE,Windows,POINT(14.5045 50.0804),Czechia,true,12.0
+dbfp6f,M,70,IE,Windows,POINT(19.2632 42.4411),Montenegro,false,9.0
+igri4p,F,35,Chrome,Windows,POINT(113.1055 28.1821),China,true,4.0
+e7d5n8,,,Safari,MacOS X,POINT(-97.822 37.751),United States,false,10.0
+isydi7,M,24,Firefox,Windows,POINT(-97.822 37.751),United States,true,20.0
+hlhip7,F,71,Chrome,Windows,POINT(-74.0799 4.5981),Colombia,false,17.0
+85x5jp,M,58,Firefox,MacOS X,POINT(-79.2554 43.6904),Canada,false,12.0
+3818ru,F,44,Chrome,Windows,POINT(77.006 20.0063),India,false,12.0
+lcclf2,,12,Chrome,Windows,POINT(-121.9572 37.2808),United States,false,5.0
+os9fvz,M,74,Chrome,Windows,POINT(-97.822 37.751),United States,true,10.0
+k352w9,,38,Chrome,Windows,POINT(25.3182 54.6678),Lithuania,true,15.0
+w8yw6i,M,63,Chrome,Windows,POINT(-97.822 37.751),United States,true,16.0
+9oahhx,M,66,Chrome,Windows,POINT(-90.0607 30.0035),United States,false,21.0
+9fi9ky,M,44,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,10.0
+v9emu6,M,26,Chrome,Windows,POINT(-97.822 37.751),United States,false,8.0
+bt32pe,F,44,Chrome,Windows,POINT(35.046 48.4735),Ukraine,false,15.0
+8i5k2u,F,66,Chrome,Windows,POINT(-97.822 37.751),United States,true,13.0
+o2dpwz,F,46,Firefox,Windows,POINT(-97.822 37.751),United States,true,18.0
+uz70x4,F,53,Chrome,Windows,POINT(-74.0799 4.5981),Colombia,true,11.0
+1gi9fi,F,36,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,10.0
+3e01es,M,32,Chrome,Windows,,,true,13.0
+p0oej8,,70,Chrome,Windows,POINT(85.8822 20.4659),India,true,15.0
+pbzoof,F,26,Chrome,Windows,POINT(-97.822 37.751),United States,false,8.0
+yfqv0y,F,,Edge,Windows,POINT(139.6895 35.6897),Japan,true,13.0
+ih1yab,F,26,Chrome,Windows,POINT(24 -29),South Africa,false,9.0
+yk6jcv,M,,Chrome,MacOS X,POINT(73.4001 54.9978),Russia,true,12.0
+sh4jni,M,51,Firefox,Windows,POINT(-97.822 37.751),United States,false,13.0
+0a4aiu,F,37,Chrome,MacOS X,POINT(4.3447 50.8509),Belgium,true,12.0
+j9r7vh,M,64,Chrome,Windows,POINT(8.1551 47.1449),Switzerland,true,16.0
+67c6m1,,51,Chrome,MacOS X,POINT(-79.3716 43.6319),Canada,false,15.0
+onmki1,M,37,Chrome,Linux,POINT(-97.822 37.751),United States,false,16.0
+hf6ttv,M,,Chrome,Windows,POINT(100.9367 13.0508),Thailand,true,9.0
+tnitbu,M,35,Chrome,Windows,POINT(-57.541 -37.9951),Argentina,true,14.0
+qu3dmw,M,40,Chrome,Windows,POINT(103.8014 1.3673),Singapore,true,13.0
+82ap4m,F,62,Chrome,MacOS X,POINT(-4.0659 43.2644),Spain,false,11.0
+7g01ls,M,51,Chrome,MacOS X,POINT(24 -29),South Africa,false,11.0
+bgmbo7,M,59,Chrome,Windows,POINT(-82.2011 33.4485),United States,false,8.0
+x7pdfm,F,68,Chrome,Windows,POINT(-57.8857 -34.8652),Argentina,false,8.0
+qzb1px,M,57,Chrome,Windows,POINT(-90.2525 15.4974),Guatemala,false,16.0
+oorit3,M,28,Chrome,Windows,POINT(-58 -23),Paraguay,true,23.0
+5n0wit,F,54,Chrome,Windows,POINT(-94.5778 39.1027),United States,false,7.0
+5vbmsk,M,37,Chrome,Windows,POINT(2.4075 48.8323),France,true,9.0
+n102r0,M,63,Firefox,Windows,POINT(-97.822 37.751),United States,false,12.0
+qnc7oo,M,63,Chrome,Windows,POINT(113.722 34.7732),China,false,15.0
+cck54o,F,54,Chrome,Windows,POINT(139.0889 36.3811),Japan,false,9.0
+t31xiw,F,65,IE,Windows,POINT(121.5495 29.8782),China,true,13.0
+tgyja2,M,55,Firefox,Windows,POINT(18.8184 50.4427),Poland,true,12.0
+joeqzj,F,32,Chrome,Windows,POINT(103.8014 1.3673),Singapore,false,5.0
+kih97r,F,,Chrome,Windows,POINT(34.7649 32.0668),Israel,false,12.0
+eyckgx,F,72,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,13.0
+un5gj1,,44,Chrome,MacOS X,POINT(113.722 34.7732),China,true,14.0
+ket1de,M,48,Chrome,Windows,POINT(-97.822 37.751),United States,false,19.0
+m86rfo,M,65,Chrome,Windows,POINT(-97.822 37.751),United States,true,21.0
+s2p33a,M,,Chrome,Linux,POINT(127.1377 37.4331),South Korea,false,12.0
+rbdhs4,,41,Chrome,Windows,POINT(113.722 34.7732),China,false,8.0
+p962p7,,,Chrome,Windows,POINT(8.1551 47.1449),Switzerland,false,10.0
+4vdkyu,M,72,Chrome,Windows,POINT(-118.4005 34.029),United States,false,11.0
+novdmf,,56,Chrome,Windows,POINT(114.1657 22.2578),Hong Kong,false,13.0
+kj7dix,F,37,Firefox,Windows,POINT(99.564 16.3783),Thailand,true,11.0
+1et1he,F,55,Chrome,Windows,POINT(-97.822 37.751),United States,false,10.0
+hlze60,M,,Chrome,MacOS X,POINT(14.285 48.3074),Austria,true,7.0
+w6g0om,F,61,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,20.0
+wjevlb,,37,Chrome,MacOS X,POINT(-99.2366 19.5129),Mexico,true,16.0
+qrsf0y,F,65,Chrome,Windows,POINT(-97.822 37.751),United States,false,10.0
+njpigt,M,25,Chrome,Windows,POINT(113.722 34.7732),China,true,10.0
+ujnfbr,F,15,Chrome,Windows,POINT(139.6895 35.6897),Japan,false,10.0
+x7tr29,F,33,Firefox,Windows,POINT(-79.5002 43.6089),Canada,true,11.0
+i2r575,M,36,IE,Windows,POINT(27.8376 -26.3811),South Africa,true,12.0
+n9br5o,M,55,Chrome,Windows,POINT(-97.822 37.751),United States,true,14.0
+h7ulkk,F,11,IE,Windows,POINT(-46.6409 -23.6283),Brazil,false,10.0
+3hmh5i,M,55,Firefox,Windows,POINT(39.1708 51.6451),Russia,true,10.0
+nkp129,M,24,Firefox,Windows,POINT(14.6492 46.6806),Austria,true,9.0
+k6lpcb,F,26,Chrome,MacOS X,POINT(4.8883 45.7663),France,false,14.0
+0p70jy,F,18,Chrome,MacOS X,POINT(-81.5305 31.2804),United States,false,13.0
+iepemb,M,72,Chrome,MacOS X,POINT(5.0877 36.7494),Algeria,true,9.0
+3tx5su,F,69,Chrome,Windows,POINT(9.491 51.2993),Germany,false,12.0
+i2nkf9,M,29,Edge,Windows,POINT(-78.375 36.6534),United States,true,15.0
+bcx97h,M,65,Chrome,MacOS X,POINT(140.2021 36.0954),Japan,false,11.0
+ieowt7,M,34,Chrome,Windows,POINT(101.6627 2.9304),Malaysia,true,15.0
+62vzr3,,27,Firefox,Windows,POINT(-79.3716 43.6319),Canada,false,13.0
+rse3fx,M,34,Chrome,Windows,POINT(137.0522 35.1863),Japan,true,10.0
+uierz2,M,39,Chrome,Windows,POINT(15.2354 52.7357),Poland,true,16.0
+68thfr,F,66,Chrome,MacOS X,POINT(-43.2192 -22.8305),Brazil,false,13.0
+nfl07x,F,68,Chrome,Windows,POINT(120.1612 30.2994),China,false,12.0
+9xprhw,F,63,Firefox,Windows,POINT(-2.6946 42.8561),Spain,false,11.0
+9x38oi,M,59,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,15.0
+lb0wvu,F,62,Chrome,Windows,POINT(-97.822 37.751),United States,false,11.0
+ja75e3,F,29,Safari,MacOS X,POINT(139.6895 35.6897),Japan,false,11.0
+fsbqnw,F,,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,11.0
+4o0e61,F,44,Chrome,Windows,POINT(-97.822 37.751),United States,true,16.0
+mm6wak,M,73,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,12.0
+rrm256,F,69,Chrome,Windows,POINT(-97.822 37.751),United States,false,15.0
+3q97eb,,30,Chrome,Linux,POINT(-5 32),Morocco,false,10.0
+7p3baa,M,43,Chrome,Windows,POINT(-97.822 37.751),United States,true,17.0
+ynapna,M,64,Chrome,Windows,POINT(-97.822 37.751),United States,false,11.0
+bb7ru3,F,40,Chrome,Windows,POINT(24 -29),South Africa,false,15.0
+tojkh0,M,74,Chrome,Windows,POINT(-46.6409 -23.6283),Brazil,true,11.0
+fl9278,M,33,Chrome,Windows,POINT(-47.252 -22.8374),Brazil,true,9.0
+f98miz,M,65,Chrome,Windows,POINT(44.6734 43.0344),Russia,false,15.0
+1whda5,,,Safari,MacOS X,POINT(-43.2192 -22.8305),Brazil,true,10.0
+zcfa5l,M,79,Chrome,Windows,POINT(-97.822 37.751),United States,false,12.0
+76vat5,F,18,Chrome,Windows,POINT(126.9864 37.5944),South Korea,true,17.0
+d9bje8,F,63,Chrome,Windows,POINT(77.006 20.0063),India,true,14.0
+42g6gt,F,51,Chrome,MacOS X,POINT(7.6636 45.0496),Italy,false,15.0
+vn7sum,F,58,Safari,MacOS X,POINT(-97.822 37.751),United States,false,12.0
+xc9p68,F,59,Edge,Windows,POINT(113.722 34.7732),China,false,16.0
+lfmuh4,F,39,Chrome,Windows,POINT(-76.4442 41.0106),United States,true,14.0
+chokd6,M,63,Chrome,Windows,POINT(-3.471 37.9938),Spain,false,11.0
+3w1ctq,M,,Chrome,Windows,POINT(-84.0986 33.7344),United States,false,17.0
+gzo0bs,F,27,Chrome,Windows,POINT(-97.822 37.751),United States,false,10.0
+njvjcb,F,50,Chrome,Windows,POINT(-97.822 37.751),United States,false,11.0
+cnoqws,M,50,Firefox,Windows,POINT(11.6648 45.2251),Italy,false,14.0
+5j483e,M,10,Firefox,Linux,POINT(113.722 34.7732),China,false,14.0
+6qedb0,F,37,Firefox,Windows,POINT(-48.7093 -28.1873),Brazil,true,16.0
+6x37su,M,60,Firefox,MacOS X,POINT(126.7288 37.4562),South Korea,false,3.0
+a19jyg,F,,Chrome,MacOS X,POINT(-82.9665 40.0818),United States,false,12.0
+sctgq2,,59,Firefox,Linux,POINT(-97.822 37.751),United States,false,13.0
+1ulmuz,M,27,Firefox,Windows,POINT(-78.375 36.6534),United States,false,10.0
+npg8ik,F,35,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,8.0
+rekk5q,F,41,Chrome,MacOS X,POINT(31.223 30.0355),Egypt,false,9.0
+uf9ini,F,55,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,13.0
+ilyi2m,F,,Chrome,MacOS X,POINT(67.087 24.9246),Pakistan,true,15.0
+q0nm12,M,15,Chrome,Windows,POINT(134.5678 34.0807),Japan,false,4.0
+pz7der,F,39,Safari,MacOS X,POINT(-97.822 37.751),United States,true,12.0
+646r1p,,46,Safari,MacOS X,,,true,12.0
+4pural,F,72,Chrome,Windows,POINT(2.2875 48.9119),France,true,15.0
+9s9iw3,,26,Chrome,Windows,POINT(30 -15),Zambia,true,15.0
+5b4bg6,F,29,Chrome,Windows,POINT(-97.822 37.751),United States,true,2.0
+f4yavu,F,64,Chrome,MacOS X,POINT(113.722 34.7732),China,true,17.0
+ya0z3x,F,39,Chrome,Windows,POINT(12.1097 43.1479),Italy,false,8.0
+vd2xce,M,19,Chrome,Windows,POINT(-122.2976 47.7495),United States,false,16.0
+253si3,F,32,Chrome,Windows,POINT(-81.7982 41.3847),United States,false,18.0
+nau3mx,M,24,Chrome,MacOS X,POINT(12.9675 37.9787),Italy,false,11.0
+3vh1w0,M,57,Chrome,MacOS X,POINT(23.7353 37.9842),Greece,false,10.0
+rsol89,F,56,Firefox,Windows,,,false,10.0
+7n14mo,F,49,Chrome,Windows,POINT(-97.822 37.751),United States,true,8.0
+it8qj1,M,33,Chrome,Windows,POINT(21.0362 52.2394),Poland,true,15.0
+v0os6p,M,51,Firefox,Windows,POINT(24.9349 60.1717),Finland,true,11.0
+ae9q7y,M,66,Firefox,Windows,POINT(-73.6696 42.7273),United States,true,17.0
+kyibv5,M,67,Chrome,Windows,POINT(-97.822 37.751),United States,false,15.0
+iykmw2,F,43,Chrome,Windows,POINT(-3.6269 40.5546),Spain,false,10.0
+sknqm6,F,67,Chrome,Windows,POINT(-94.713 39.0679),United States,false,6.0
+17hmqu,M,27,Chrome,Windows,POINT(30 15),Sudan,false,6.0
+gynkw0,M,39,Chrome,Windows,POINT(-70.6653 -33.4513),Chile,true,9.0
+t1do3b,F,20,Chrome,Windows,POINT(113.722 34.7732),China,false,10.0
+l4qq1p,F,,Chrome,Windows,POINT(-93.2244 30.1713),United States,false,11.0
+c2qn1n,M,35,Chrome,MacOS X,POINT(2.1701 41.387),Spain,true,12.0
+burf0k,F,,Chrome,Windows,POINT(113.722 34.7732),China,true,12.0
+5ssdtp,F,11,Chrome,Windows,POINT(113.722 34.7732),China,false,11.0
+k0syxn,M,45,Chrome,Windows,POINT(-77.0428 -12.0464),Peru,false,11.0
+cbprpn,F,51,Chrome,Windows,POINT(-119.7257 45.8234),United States,true,18.0
+t7rnpn,F,55,Chrome,Windows,POINT(72.8856 19.0748),India,false,13.0
+befrjs,M,47,Chrome,Windows,POINT(103.8014 1.3673),Singapore,false,11.0
+5dp8pq,M,51,Firefox,Windows,POINT(-97.822 37.751),United States,false,10.0
+ci81xw,F,32,Chrome,Windows,POINT(118.4739 30.5089),China,true,13.0
+2plri2,,37,Chrome,Windows,POINT(-97.822 37.751),United States,true,12.0
+n641x4,M,31,Chrome,Windows,POINT(-97.822 37.751),United States,true,13.0
+03qxsn,M,62,Chrome,MacOS X,POINT(-43.2192 -22.8305),Brazil,false,15.0
+g0f39l,M,54,Chrome,Windows,POINT(-94.2197 36.3519),United States,false,13.0
+8xvvyh,F,30,Chrome,MacOS X,POINT(12.1097 43.1479),Italy,true,17.0
+rz7at1,M,59,Firefox,Windows,POINT(-97.822 37.751),United States,false,19.0
+0y8v6x,F,60,Safari,MacOS X,POINT(111.9366 36.6122),China,false,10.0
+ek7yp7,F,,Chrome,MacOS X,POINT(113.722 34.7732),China,true,16.0
+ft35fb,F,23,Chrome,MacOS X,POINT(139.6466 35.4343),Japan,false,13.0
+yyidrm,M,,Firefox,Windows,POINT(2.3387 48.8582),France,true,8.0
+ullzry,M,38,Safari,MacOS X,POINT(-16.3579 28.5377),Spain,false,18.0
+108ntw,F,73,Chrome,Windows,POINT(-58.0374 -31.3985),Argentina,true,12.0
+l42f1w,M,48,Firefox,Windows,POINT(14.9641 51.788),Poland,true,16.0
+vld0nb,F,54,Firefox,Windows,POINT(-74.1581 39.946),United States,true,7.0
+c11oly,F,9,Chrome,Windows,POINT(-97.822 37.751),United States,true,13.0
+3ib0he,M,67,Firefox,Windows,POINT(113.722 34.7732),China,false,16.0
+gcxk7j,F,75,Firefox,Windows,POINT(-79.3716 43.6319),Canada,true,14.0
+ody8es,M,63,Chrome,MacOS X,POINT(13.2931 52.4821),Germany,false,8.0
+qb6qhn,M,64,Chrome,Windows,POINT(-97.822 37.751),United States,false,16.0
+uvtm6c,M,56,Chrome,Windows,POINT(125.5125 42.6441),China,false,13.0
+6ba0i0,M,43,Safari,MacOS X,POINT(103.6818 1.3078),Singapore,true,7.0
+43bxlc,M,71,Firefox,Windows,POINT(-0.3414 51.5175),United Kingdom,false,10.0
+3io01y,,36,Chrome,Windows,POINT(-97.822 37.751),United States,false,18.0
+0ltpgt,M,76,Chrome,Windows,POINT(126.9741 37.5112),South Korea,false,9.0
+wt6xiv,F,61,Chrome,Windows,POINT(126.9741 37.5112),South Korea,false,13.0
+0oa5av,M,29,Firefox,Windows,POINT(-85.063 35.0788),United States,false,6.0
+pdbus6,,69,Chrome,Windows,POINT(12.4266 51.3235),Germany,true,15.0
+w33dm1,M,11,Chrome,Windows,POINT(73.7286 18.6161),India,true,16.0
+wen0gw,,36,Chrome,Windows,POINT(-97.822 37.751),United States,false,12.0
+jrz06w,M,71,Firefox,Linux,POINT(-97.822 37.751),United States,true,12.0
+fqkfkv,F,29,Firefox,Windows,POINT(-43.9572 -19.9029),Brazil,true,11.0
+ocjc8t,M,49,Chrome,MacOS X,POINT(-90.2525 15.4974),Guatemala,true,12.0
+ov88tn,F,39,Chrome,Windows,POINT(-97.822 37.751),United States,true,19.0
+3ri9zd,F,73,Chrome,MacOS X,POINT(31.223 30.0355),Egypt,false,11.0
+964w0j,F,56,Chrome,MacOS X,POINT(-74.0799 4.5981),Colombia,false,18.0
+ivrrfr,M,68,Chrome,MacOS X,POINT(8.1551 47.1449),Switzerland,false,15.0
+r5g688,,68,Chrome,MacOS X,POINT(-86.5 15),Honduras,false,13.0
+rr32y1,F,42,Chrome,Windows,POINT(113.722 34.7732),China,false,10.0
+xnbc22,M,58,Chrome,Windows,POINT(-97.822 37.751),United States,true,9.0
+wkh1wi,,12,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,16.0
+5vclsu,M,22,Chrome,Windows,POINT(139.6895 35.6897),Japan,false,9.0
+g58lra,,,Firefox,Windows,POINT(139.6895 35.6897),Japan,true,12.0
+ypbowg,M,70,Safari,MacOS X,POINT(-97.822 37.751),United States,false,17.0
+n6attf,F,47,Firefox,Windows,POINT(9.491 51.2993),Germany,true,19.0
+e34ktz,M,71,Chrome,Windows,POINT(113.722 34.7732),China,false,7.0
+k5ss0g,,48,Chrome,MacOS X,POINT(-0.4475 52.4537),United Kingdom,false,13.0
+e8wtq9,F,24,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,14.0
+c7prsw,F,31,Firefox,Windows,POINT(-79.3716 43.6319),Canada,true,9.0
+co644s,F,66,Firefox,Windows,POINT(5.0458 52.0253),Netherlands,false,10.0
+2y7o7o,M,55,IE,Windows,POINT(-97.822 37.751),United States,true,17.0
+osb8nv,F,42,Chrome,MacOS X,POINT(-2.2139 31.616),Algeria,false,7.0
+xqnayo,M,52,Chrome,Windows,POINT(126.9741 37.5112),South Korea,false,8.0
+wg09jm,M,45,Chrome,Windows,POINT(126.8178 37.3253),South Korea,true,9.0
+rh8p40,F,18,Chrome,Windows,POINT(-119.7257 45.8234),United States,true,15.0
+y1uoi6,M,36,Safari,MacOS X,POINT(10.7559 59.9452),Norway,false,12.0
+dtx68q,M,,Chrome,Windows,POINT(-97.822 37.751),United States,true,12.0
+hr0h1u,,,Chrome,Windows,POINT(12.3234 58.3807),Sweden,true,19.0
+5mc6uz,F,62,Firefox,Windows,POINT(10.6446 35.8251),Tunisia,true,17.0
+n17n00,M,55,Firefox,Linux,POINT(-97.822 37.751),United States,true,13.0
+ikgp29,F,52,Chrome,Windows,POINT(138.9289 37.6627),Japan,true,11.0
+mm2298,M,67,Chrome,Windows,POINT(128.5924 35.8723),South Korea,false,20.0
+kblg02,F,74,Chrome,Windows,POINT(-74.0014 40.7503),United States,true,10.0
+z8yfm3,F,22,Firefox,Windows,POINT(44.0012 56.3327),Russia,true,10.0
+x3197c,,61,Firefox,Windows,POINT(-80.6392 41.0799),United States,true,10.0
+ayf3v3,M,52,IE,Windows,,,false,12.0
+t5diht,M,51,Chrome,Windows,POINT(-97.822 37.751),United States,false,13.0
+k374el,F,12,Safari,MacOS X,POINT(139.745 35.6887),Japan,false,11.0
+p0iw59,F,,Chrome,Windows,POINT(-84.5869 42.1062),United States,false,11.0
+w8wz5u,F,22,Safari,MacOS X,POINT(9.4613 34.4739),Tunisia,true,14.0
+y2izzi,F,46,Firefox,Windows,POINT(-97.822 37.751),United States,false,9.0
+echvaf,,15,IE,Windows,POINT(31.223 30.0355),Egypt,false,17.0
+mg0j4g,M,,Chrome,Windows,POINT(126.9741 37.5112),South Korea,true,17.0
+wslftk,M,64,Chrome,MacOS X,POINT(7.4138 43.7312),Monaco,false,8.0
+1gzmzh,M,,Chrome,Windows,POINT(-97.822 37.751),United States,false,11.0
+qf0pd3,F,59,Chrome,MacOS X,POINT(113.722 34.7732),China,false,14.0
+m1mm3y,F,,Chrome,MacOS X,POINT(103.8014 1.3673),Singapore,false,10.0
+x9ka2f,F,16,Firefox,Windows,POINT(39.291 -6.8227),Tanzania,false,6.0
+r9jqyf,F,76,Chrome,Windows,POINT(139.2419 35.3393),Japan,false,13.0
+cjlisg,M,54,Chrome,Windows,POINT(138.5706 35.6641),Japan,true,12.0
+i71ykg,F,67,Firefox,Windows,POINT(-95.8517 41.2591),United States,false,15.0
+763zey,,63,Chrome,Windows,POINT(113.722 34.7732),China,false,14.0
+1fjhne,,57,Chrome,Windows,POINT(127.0639 37.4897),South Korea,true,12.0
+juh5i9,M,64,Chrome,MacOS X,POINT(9.491 51.2993),Germany,true,13.0
+3ret8l,M,47,Safari,MacOS X,POINT(-121.8948 36.5428),United States,false,7.0
+slx9qj,F,72,Chrome,Linux,POINT(-97.822 37.751),United States,false,12.0
+g2ln23,F,43,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,15.0
+n38log,F,,Firefox,Windows,POINT(31.9946 46.979),Ukraine,true,10.0
+2okoot,M,19,Chrome,MacOS X,POINT(2.3387 48.8582),France,true,8.0
+6xffu0,M,67,Firefox,Windows,POINT(-97.822 37.751),United States,true,15.0
+09u5qe,M,31,Chrome,Linux,POINT(-43.3436 -22.9485),Brazil,false,16.0
+e9f5qw,F,33,Chrome,Windows,POINT(-97.822 37.751),United States,true,15.0
+cnekoe,F,66,Chrome,Windows,POINT(31.2852 30.0778),Egypt,false,12.0
+g1ot0z,M,62,Chrome,Windows,POINT(-97.822 37.751),United States,false,11.0
+lxs2jn,F,,Safari,MacOS X,POINT(121.5324 25.0504),Taiwan,true,10.0
+6jjoeg,F,60,Chrome,Windows,POINT(120.1612 30.2994),China,false,11.0
+4isqpb,,62,Chrome,MacOS X,POINT(38 1),Kenya,false,7.0
+f9umfi,F,37,Chrome,Windows,POINT(-97.822 37.751),United States,false,11.0
+3xp2w5,M,46,Chrome,Windows,POINT(-47.9341 -15.7792),Brazil,false,18.0
+k1q866,,16,Safari,MacOS X,POINT(120.2148 22.9917),Taiwan,true,14.0
+7cxxz9,F,34,Chrome,Windows,POINT(-97.822 37.751),United States,true,11.0
+dkcxhn,M,51,Chrome,MacOS X,POINT(-95.8023 29.646),United States,false,20.0
+fctgyg,,27,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,10.0
+73kv8t,F,59,Chrome,Windows,POINT(121.4054 31.0442),China,true,11.0
+mtjxqv,M,54,Chrome,Windows,POINT(-97.822 37.751),United States,false,14.0
+67kmd6,F,50,Safari,MacOS X,POINT(106.6581 10.8326),Vietnam,false,13.0
+xr4dmi,M,35,Chrome,Windows,POINT(130.8695 33.8692),Japan,true,14.0
+ig6a97,M,57,Chrome,Windows,POINT(43.1309 44.2104),Russia,false,13.0
+wl1mj5,M,74,Chrome,Windows,POINT(-97.822 37.751),United States,true,13.0
+bp74hg,M,58,Chrome,Windows,POINT(-5.4486 36.1346),Spain,true,12.0
+8jpn3j,F,68,Chrome,Windows,POINT(113.722 34.7732),China,true,15.0
+13kwpc,M,54,Chrome,Windows,POINT(9.4613 34.4739),Tunisia,true,16.0
+iknqfr,F,75,Firefox,Windows,POINT(2.3985 48.7866),France,false,18.0
+uxky97,,59,Chrome,Windows,POINT(-97.822 37.751),United States,true,13.0
+uk76d2,F,,Chrome,MacOS X,POINT(113.722 34.7732),China,true,13.0
+712nf6,F,63,Safari,MacOS X,POINT(-88.0825 44.5523),United States,true,13.0
+4debkt,F,53,Firefox,Windows,POINT(-97.822 37.751),United States,true,6.0
+y8hk1q,F,34,Firefox,Windows,POINT(-97.822 37.751),United States,false,13.0
+sm4we8,M,50,Firefox,MacOS X,POINT(4.7549 52.083),Netherlands,true,9.0
+vrds1i,M,77,Chrome,MacOS X,POINT(141.3654 43.0763),Japan,false,15.0
+bxhbsf,F,32,Chrome,Windows,POINT(-97.822 37.751),United States,true,18.0
+kbiurs,F,71,Firefox,Windows,POINT(-97.822 37.751),United States,false,9.0
+8m9wx6,M,66,Firefox,Windows,POINT(-43.2192 -22.8305),Brazil,true,10.0
+ezag6m,F,,Safari,MacOS X,POINT(-97.822 37.751),United States,false,12.0
+id3qvq,,63,Chrome,Linux,POINT(-97.822 37.751),United States,false,14.0
+yuwv5h,M,53,Firefox,Windows,POINT(-97.822 37.751),United States,true,13.0
+rh2zaf,F,68,Chrome,Windows,POINT(37.6068 55.7386),Russia,true,10.0
+00869t,F,55,Chrome,MacOS X,POINT(114.4218 34.7471),China,true,11.0
+6kkolg,M,60,Firefox,Windows,POINT(139.6895 35.6897),Japan,true,13.0
+g5387c,M,57,Firefox,Windows,POINT(133.9436 34.657),Japan,true,11.0
+krea4e,M,10,Chrome,Windows,POINT(-77.0281 -12.0439),Peru,false,15.0
+bpqane,F,60,Chrome,Windows,POINT(9.491 51.2993),Germany,true,19.0
+bq4kl8,,53,Firefox,Windows,POINT(-97.822 37.751),United States,false,12.0
+nevlks,,21,Safari,MacOS X,POINT(121.429 28.6637),China,false,10.0
+6n5lpf,F,75,Chrome,Linux,POINT(-48.3348 -19.0233),Brazil,true,14.0
+fqb1du,M,52,Chrome,Windows,POINT(-97.822 37.751),United States,true,11.0
+ynoc4l,M,58,Chrome,Windows,POINT(39.6168 24.4662),Saudi Arabia,false,17.0
+8wlwu7,F,,Chrome,Windows,POINT(77.006 20.0063),India,true,8.0
+kf2u2j,F,59,Chrome,Windows,POINT(17.7631 49.0969),Czechia,false,8.0
+8gqbwk,F,51,Chrome,Windows,POINT(-97.822 37.751),United States,false,16.0
+rfp9zh,M,66,Chrome,Linux,POINT(20.9529 64.7472),Sweden,false,16.0
+1b3mki,F,62,Chrome,Windows,POINT(139.0894 36.2397),Japan,true,10.0
+kkxoyl,F,64,Firefox,Windows,POINT(-0.1224 51.4964),United Kingdom,true,13.0
+uzfhno,F,58,Safari,MacOS X,POINT(-97.822 37.751),United States,false,11.0
+g8pmlf,M,53,IE,Windows,POINT(2.3387 48.8582),France,true,11.0
+cschxd,M,66,Chrome,Windows,POINT(-80.064 40.6124),United States,false,12.0
+dak6td,F,32,Chrome,Windows,POINT(-97.822 37.751),United States,false,13.0
+ca8tx4,M,46,Chrome,Windows,POINT(9.491 51.2993),Germany,false,12.0
+e6jpjq,F,32,Safari,MacOS X,POINT(-0.7312 52.0276),United Kingdom,true,16.0
+xzb9pv,F,57,Chrome,MacOS X,POINT(14.4388 48.3418),Austria,false,11.0
+44u4a4,F,54,Firefox,Windows,POINT(-95.4369 29.6288),United States,false,8.0
+pg41wa,,71,Chrome,Windows,,,true,10.0
+4z0a22,F,57,Chrome,MacOS X,POINT(127.0042 36.7836),South Korea,true,15.0
+9fm0h9,F,51,Chrome,MacOS X,POINT(139.6895 35.6897),Japan,false,11.0
+99p7v3,F,13,Edge,Windows,POINT(114.6653 4.5027),Brunei,false,9.0
+81iofd,F,26,Chrome,Windows,POINT(-94.0405 45.3904),United States,false,7.0
+yykgws,F,45,Chrome,Windows,POINT(115.3817 27.3249),China,true,13.0
+ums0ja,M,44,Chrome,Windows,POINT(-97.822 37.751),United States,false,7.0
+kbhx0m,M,60,Firefox,Windows,POINT(-48.3264 -10.1683),Brazil,true,14.0
+7nzfcn,F,44,Chrome,Windows,POINT(18.056 59.3247),Sweden,false,8.0
+iflooe,F,17,Chrome,MacOS X,POINT(39.1502 57.259),Russia,false,15.0
+1pe918,,70,Chrome,Windows,POINT(73.4001 54.9978),Russia,true,10.0
+higuc4,F,52,Chrome,MacOS X,POINT(113.722 34.7732),China,false,12.0
+ajxtwi,F,67,Firefox,Linux,POINT(113.722 34.7732),China,true,10.0
+0vokgv,F,49,Chrome,MacOS X,,,false,22.0
+s6r7t3,F,32,Chrome,Windows,POINT(-97.822 37.751),United States,true,16.0
+5vo3hb,F,42,Chrome,MacOS X,POINT(-119.5076 49.812),Canada,false,12.0
+0w563n,F,19,Chrome,Windows,POINT(109.6 1.1333),Indonesia,false,10.0
+23s5e3,M,37,Safari,MacOS X,POINT(-87.6576 41.6963),United States,true,12.0
+yqltxa,M,72,Chrome,Windows,POINT(77.006 20.0063),India,false,15.0
+skddaa,F,27,Firefox,MacOS X,POINT(8.6843 50.1188),Germany,true,14.0
+z7x5dz,,51,Chrome,Windows,POINT(113.2539 23.1181),China,true,9.0
+ytnz41,,41,Chrome,MacOS X,POINT(151.1021 -33.8652),Australia,true,15.0
+ykw9q3,F,25,Chrome,Windows,POINT(-82.8141 42.7434),United States,true,10.0
+rgy9n1,M,75,Chrome,Windows,POINT(-97.822 37.751),United States,false,10.0
+lzpg54,M,60,Chrome,Windows,POINT(173.9475 -41.5268),New Zealand,true,17.0
+tqk47r,M,47,Chrome,Windows,POINT(18.0653 59.3274),Sweden,false,11.0
+2fz3tn,F,21,Firefox,MacOS X,POINT(106.5577 29.5689),China,false,8.0
+fdb4yl,M,75,Firefox,Windows,POINT(111.0199 21.4774),China,false,11.0
+nrlll1,F,31,Chrome,Windows,POINT(126.9741 37.5112),South Korea,false,12.0
+p5hhvg,M,41,Firefox,Windows,POINT(-73.1222 7.1224),Colombia,false,8.0
+pmi8g2,,11,Chrome,Windows,POINT(136.9125 35.2853),Japan,false,9.0
+rquyg4,F,52,Firefox,Linux,POINT(-97.822 37.751),United States,true,13.0
+5dulep,F,38,Chrome,Windows,POINT(151.1997 -33.8672),Australia,false,8.0
+96u3qu,F,45,Firefox,Windows,POINT(113.722 34.7732),China,true,7.0
+6souk8,F,50,Chrome,Windows,POINT(77.006 20.0063),India,true,11.0
+r5olbt,M,39,Chrome,Windows,POINT(113.722 34.7732),China,true,19.0
+tv3cgw,,34,Chrome,Windows,POINT(113.722 34.7732),China,true,16.0
+qpi34p,F,70,Firefox,MacOS X,POINT(18.4968 -12.4992),Angola,true,20.0
+r6ft8j,M,,Chrome,Windows,POINT(-43.9572 -19.9029),Brazil,false,5.0
+4pq79s,M,60,Chrome,Windows,,,false,18.0
+ezcgl0,F,17,Chrome,Windows,POINT(18.3985 -33.9263),South Africa,false,17.0
+j5hylw,F,14,IE,Windows,POINT(127.3013 36.609),South Korea,false,9.0
+apcdhz,M,69,Safari,MacOS X,POINT(-97.822 37.751),United States,false,15.0
+1eattz,F,43,Chrome,Linux,POINT(6.7962 51.2076),Germany,true,12.0
+9tlrai,F,73,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,14.0
+16e4st,F,68,Chrome,Windows,POINT(-80.3577 25.8153),United States,true,13.0
+bd0fa4,M,29,Chrome,Windows,POINT(117.1762 39.1488),China,true,13.0
+li8c79,M,,Chrome,Windows,POINT(-73.9883 40.7488),United States,true,17.0
+6rj09o,M,48,Firefox,MacOS X,POINT(-3.1836 51.4469),United Kingdom,true,12.0
+i6hq1z,M,68,Chrome,Windows,POINT(-97.822 37.751),United States,true,13.0
+jrmofc,,76,Safari,MacOS X,POINT(-97.822 37.751),United States,false,12.0
+kop6z1,F,,Safari,MacOS X,POINT(-97.822 37.751),United States,false,16.0
+104r0w,F,36,Chrome,MacOS X,POINT(113.722 34.7732),China,false,11.0
+t778hg,F,31,Chrome,Windows,POINT(-59.371 -28.4677),Argentina,false,12.0
+j6z1co,F,10,Chrome,Windows,POINT(-97.822 37.751),United States,false,11.0
+lxrlo0,M,72,Chrome,Windows,POINT(121.476 31.242),China,true,9.0
+d4rvbt,F,71,Firefox,Windows,POINT(-0.1984 51.9045),United Kingdom,false,13.0
+ifx0xl,M,78,Safari,MacOS X,POINT(-97.822 37.751),United States,true,13.0
+9n3lq7,M,60,Chrome,Windows,POINT(-1.637 53.8109),United Kingdom,false,15.0
+2o75vv,F,60,Chrome,Windows,POINT(-97.822 37.751),United States,true,12.0
+r4hzoz,M,55,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,6.0
+h377uh,M,27,Chrome,Windows,POINT(126.9741 37.5112),South Korea,false,12.0
+94mtu1,F,61,Chrome,Windows,POINT(139.6977 35.6654),Japan,true,16.0
+egblno,M,,Chrome,MacOS X,POINT(111.6065 26.4203),China,true,8.0
+kbjke7,M,,Chrome,Windows,POINT(70 30),Pakistan,false,9.0
+6gonht,F,63,Firefox,Windows,POINT(115.8648 -31.9474),Australia,false,13.0
+ejd4yo,M,32,Chrome,Windows,POINT(-88.1995 41.8879),United States,true,16.0
+5t66h8,M,72,Chrome,Windows,,,false,13.0
+w2dp1e,M,76,Chrome,Windows,POINT(-97.822 37.751),United States,false,14.0
+qnr880,,56,Chrome,Windows,POINT(25 57),Latvia,false,13.0
+esomm7,F,49,Chrome,MacOS X,POINT(-79.3716 43.6319),Canada,false,11.0
+2figum,F,38,Firefox,Windows,POINT(113.722 34.7732),China,true,11.0
+zj6qjf,,51,Firefox,Windows,POINT(106.8272 -6.1728),Indonesia,true,11.0
+bt08zd,F,49,Safari,MacOS X,POINT(13.3075 52.4428),Germany,true,12.0
+j3azrc,,33,Safari,MacOS X,POINT(113.5344 34.68),China,false,11.0
+s75mt8,M,72,Chrome,Windows,POINT(84.9949 56.4911),Russia,true,11.0
+ulw0o7,F,25,Chrome,Windows,POINT(-97.822 37.751),United States,false,11.0
+smrdc0,F,48,Chrome,Windows,POINT(126.9741 37.5112),South Korea,false,14.0
+jd4j2f,F,60,Chrome,Windows,POINT(-81.0281 34.0651),United States,true,8.0
+8hxqe3,,60,Firefox,Linux,POINT(24.7323 59.433),Estonia,true,13.0
+jlpx4b,M,55,Chrome,Windows,POINT(126.9864 37.5944),South Korea,false,16.0
+jwp7f0,M,71,Chrome,Windows,POINT(126.9741 37.5112),South Korea,false,15.0
+8ehzqn,M,46,Chrome,Windows,POINT(-97.822 37.751),United States,false,10.0
+jpuhip,F,40,Chrome,Windows,POINT(118.8794 31.9962),China,true,16.0
+bwykk7,F,70,Chrome,Windows,POINT(-6.3159 53.323),Ireland,true,7.0
+qiobzu,M,21,Firefox,Windows,POINT(-97.822 37.751),United States,true,21.0
+t7vud5,M,76,Chrome,Windows,,,false,8.0
+ib50kk,F,55,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,17.0
+mxt3rf,F,45,Chrome,MacOS X,POINT(106.6581 10.8326),Vietnam,true,14.0
+w9cv88,M,41,Chrome,Windows,POINT(113.722 34.7732),China,false,9.0
+ld5es1,M,27,Chrome,Windows,POINT(75.6082 63.166),Russia,false,13.0
+2lmg07,M,65,Chrome,Windows,POINT(9.491 51.2993),Germany,false,12.0
+759wsf,F,38,Chrome,Windows,POINT(-97.822 37.751),United States,true,15.0
+koe0cv,,61,Firefox,Windows,POINT(-97.822 37.751),United States,false,15.0
+aqzegd,F,10,Firefox,Windows,POINT(121.3176 24.9889),Taiwan,false,8.0
+1eiy9r,F,75,IE,Windows,POINT(21.9014 43.3261),Serbia,false,12.0
+v78l8b,F,68,Chrome,Windows,POINT(40.972 57.0006),Russia,false,17.0
+7awtv1,M,53,Chrome,Linux,POINT(-97.822 37.751),United States,true,15.0
+05aeea,F,38,Chrome,Windows,POINT(-93.3447 45.0123),United States,true,16.0
+2awqci,F,26,Safari,MacOS X,POINT(30.3835 -29.6177),South Africa,true,18.0
+9p38z3,,37,Chrome,Windows,POINT(18.056 59.3247),Sweden,true,8.0
+l82hkd,F,52,Chrome,Windows,POINT(-97.822 37.751),United States,false,14.0
+2e3xo9,,29,Chrome,Windows,POINT(90.4093 23.7272),Bangladesh,true,20.0
+ebbspu,F,40,Chrome,Windows,POINT(138.9233 35.1089),Japan,true,15.0
+cldqjw,M,36,Chrome,MacOS X,POINT(-118.3165 34.183),United States,true,8.0
+8x6f3s,F,57,Chrome,Windows,POINT(22.7305 60.5884),Finland,false,12.0
+v37b5l,F,67,Chrome,MacOS X,POINT(77.006 20.0063),India,false,19.0
+5ihr5g,F,43,Firefox,Linux,POINT(114.1374 22.5318),China,true,15.0
+tnsirc,F,,Chrome,Windows,POINT(31.0449 -29.8556),South Africa,true,8.0
+pmam6q,F,55,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,13.0
+6k5key,F,41,Chrome,Windows,POINT(16.6652 59.2841),Sweden,true,15.0
+sp3yt9,F,63,Chrome,Windows,POINT(77.0282 28.4597),India,false,12.0
+qkv13l,M,,Chrome,Windows,POINT(-66.115 18.3588),Puerto Rico,false,8.0
+2tsfwb,F,51,Chrome,Windows,POINT(9.491 51.2993),Germany,false,12.0
+mafzno,M,68,Chrome,Windows,POINT(18.2503 54.6037),Poland,false,11.0
+etpa7s,,75,Chrome,Windows,POINT(-97.822 37.751),United States,false,15.0
+tg55ot,F,33,Chrome,MacOS X,POINT(-85.8747 37.6875),United States,true,20.0
+1sgfmi,F,50,Chrome,MacOS X,POINT(2.4906 48.6066),France,false,14.0
+2fymbf,F,41,Chrome,Windows,POINT(-97.822 37.751),United States,false,14.0
+ut169l,F,77,Chrome,Windows,POINT(9.491 51.2993),Germany,false,8.0
+k7ojuq,M,47,Chrome,Windows,POINT(113.722 34.7732),China,false,6.0
+04vg7r,M,44,Safari,MacOS X,POINT(31.2852 30.0778),Egypt,true,11.0
+6g4erf,F,,Chrome,Linux,POINT(-8.6793 41.1691),Portugal,true,8.0
+cmn69o,M,71,Chrome,Windows,POINT(116.385 39.9285),China,false,12.0
+0ylrba,M,11,Chrome,Windows,POINT(-98.1138 30.0225),United States,false,12.0
+z4wc7o,F,47,Chrome,Windows,POINT(-90.3778 38.6375),United States,true,12.0
+5s3omu,F,51,Chrome,Linux,POINT(24 -29),South Africa,true,16.0
+z0f2y2,F,45,Chrome,Windows,POINT(4.8995 52.3824),Netherlands,false,13.0
+kz8em6,F,33,Chrome,Windows,POINT(30.5303 50.458),Ukraine,false,12.0
+1glaph,M,43,Chrome,Windows,POINT(-83.1837 42.6626),United States,true,10.0
+grsq9t,M,49,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,17.0
+v64kop,F,31,Chrome,Windows,POINT(-97.822 37.751),United States,false,13.0
+cqzvio,M,63,Chrome,Windows,POINT(9.491 51.2993),Germany,false,8.0
+6r3ysf,F,29,Chrome,Windows,POINT(110.9848 35.0195),China,false,17.0
+hg6rph,F,51,Chrome,MacOS X,POINT(-105.0156 39.9073),United States,false,11.0
+y7g99b,F,60,Chrome,Windows,POINT(-97.822 37.751),United States,false,17.0
+j4kseu,F,62,Safari,MacOS X,POINT(-74.4606 40.5511),United States,true,16.0
+nzf8a9,F,42,Safari,MacOS X,POINT(126.9741 37.5112),South Korea,true,15.0
+x6zwud,F,69,Chrome,Windows,POINT(11.781 43.1694),Italy,false,12.0
+qfpjhw,M,54,Chrome,MacOS X,POINT(103.8554 1.3036),Singapore,true,9.0
+pztujb,F,67,Chrome,Windows,POINT(-97.822 37.751),United States,false,16.0
+7ruzs3,M,57,Chrome,Windows,POINT(101.628 3.0882),Malaysia,false,13.0
+p8nsco,F,72,Safari,MacOS X,POINT(-80.0351 40.7003),United States,true,10.0
+7ev4bg,M,34,Chrome,Windows,POINT(-43.0811 -22.9201),Brazil,true,19.0
+ar7nf8,M,68,Chrome,Windows,POINT(23.7353 37.9842),Greece,true,11.0
+ordkig,F,60,Safari,MacOS X,POINT(4.3926 50.9056),Belgium,true,11.0
+t1miem,F,64,Chrome,Windows,POINT(-0.4046 39.4923),Spain,false,7.0
+m1gtl0,,62,Chrome,MacOS X,POINT(34.75 31.5),Israel,false,12.0
+qo4816,M,51,Chrome,MacOS X,POINT(28.0065 53.0011),Belarus,false,11.0
+bvpzgn,M,57,Chrome,Windows,POINT(-69.8965 18.4615),Dominican Republic,false,15.0
+monqtz,M,70,Chrome,MacOS X,POINT(-7.6184 33.5922),Morocco,false,11.0
+tz3xui,F,38,Chrome,Windows,POINT(4.8995 52.3824),Netherlands,true,11.0
+gsc3f6,M,9,Chrome,Windows,POINT(-81.9021 26.5544),United States,false,17.0
+9rdhv6,M,54,Chrome,Windows,POINT(-97.822 37.751),United States,true,10.0
+cpwots,M,60,Chrome,MacOS X,POINT(-77.4903 39.0469),United States,true,19.0
+psfxyj,M,45,Chrome,Linux,,,false,8.0
+i3lb1s,M,53,Firefox,MacOS X,POINT(-97.822 37.751),United States,true,12.0
+zslqv3,M,56,Chrome,Linux,POINT(24 -29),South Africa,true,13.0
+c4tm24,F,35,Edge,Windows,POINT(110.2617 22.4847),China,false,12.0
+au775d,M,,Firefox,Windows,POINT(2.3387 48.8582),France,true,12.0
+gux9aw,F,70,Firefox,Windows,POINT(24 -29),South Africa,false,10.0
+a99gmf,F,28,IE,Windows,POINT(-89.1157 32.7561),United States,true,15.0
+mkchxq,F,35,Chrome,Windows,POINT(10.859 59.955),Norway,false,11.0
+fu0l6z,F,40,Chrome,Windows,POINT(-97.822 37.751),United States,false,14.0
+ctnjyt,F,70,Chrome,MacOS X,POINT(12.1097 43.1479),Italy,true,10.0
+6zqdry,M,71,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,12.0
+izycoc,M,42,Firefox,Windows,POINT(-97.822 37.751),United States,false,14.0
+cm8jqf,F,42,Chrome,MacOS X,POINT(9.5963 52.8586),Germany,false,25.0
+i5hqn0,F,48,Firefox,Windows,POINT(8.0597 34.7457),Algeria,false,11.0
+mkbikd,F,32,Chrome,Windows,POINT(143.2104 -33.494),Australia,true,9.0
+4hqqev,M,23,Chrome,MacOS X,POINT(138.6005 -34.9274),Australia,false,9.0
+w7curs,M,,Chrome,MacOS X,POINT(-122.6929 45.5073),United States,true,17.0
+nte8z3,M,59,Chrome,Windows,POINT(126.9741 37.5112),South Korea,true,11.0
+c9jgm7,F,38,Chrome,Windows,,,true,10.0
+hq54zi,F,56,IE,Windows,POINT(120.1612 30.2994),China,false,12.0
+qzmtzl,F,51,Firefox,Windows,POINT(74.3292 31.5822),Pakistan,false,13.0
+52n6jf,F,70,Chrome,Windows,POINT(-77.4448 38.8879),United States,false,9.0
+0jve28,F,53,Edge,Windows,POINT(-6.8175 34.0347),Morocco,false,11.0
+himv13,F,44,Firefox,Windows,POINT(-42.272 -22.6714),Brazil,false,9.0
+8j1k19,M,13,Chrome,Windows,POINT(-97.822 37.751),United States,false,18.0
+mjx67v,F,22,IE,Windows,POINT(-97.822 37.751),United States,true,19.0
+91t4qi,M,40,Chrome,Windows,POINT(35.25 32),Palestine,true,16.0
+4nsbsy,F,77,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,9.0
+zpq6r2,M,21,Safari,MacOS X,POINT(-97.822 37.751),United States,false,12.0
+lcuokp,M,10,Chrome,Windows,POINT(-0.1224 51.4964),United Kingdom,false,8.0
+4nqqcl,F,24,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,8.0
+2vaifs,F,76,Safari,MacOS X,POINT(139.6895 35.6897),Japan,true,16.0
+mls2n0,M,,Chrome,Windows,POINT(-97.822 37.751),United States,false,16.0
+d1owi8,F,60,Firefox,Windows,POINT(-83.1882 42.4681),United States,false,13.0
+ieipj7,M,74,Safari,MacOS X,POINT(35.152 32.7605),Israel,false,15.0
+ncnnmt,M,75,Chrome,Windows,POINT(-122.0584 37.9043),United States,true,13.0
+457k46,,73,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,14.0
+r1le7d,F,,Chrome,Windows,POINT(-97.822 37.751),United States,false,11.0
+tof2f9,F,66,Chrome,Windows,POINT(13.4102 54.0809),Germany,false,11.0
+lnrydw,M,63,Chrome,MacOS X,POINT(113.722 34.7732),China,false,12.0
+ucx6ri,M,58,Edge,Windows,POINT(-71.4578 43.0584),United States,true,16.0
+1evh55,F,48,Safari,MacOS X,POINT(-3.0117 43.3115),Spain,true,13.0
+v8dqxd,M,53,Chrome,Windows,POINT(-2.2305 53.4702),United Kingdom,true,8.0
+bmm409,M,59,Chrome,Windows,POINT(-97.822 37.751),United States,true,11.0
+j882np,F,35,Firefox,Windows,POINT(139.6546 35.6468),Japan,false,12.0
+8tz9ad,F,57,Firefox,Windows,POINT(-9.381 38.7103),Portugal,false,13.0
+eyr9vh,F,49,Edge,Windows,POINT(0.0124 51.6056),United Kingdom,false,5.0
+gwxe18,F,35,Safari,MacOS X,POINT(12.124 47.8534),Germany,true,13.0
+tfpz8k,M,60,Chrome,Windows,POINT(-75.3251 40.5777),United States,false,9.0
+um9dnu,F,49,Chrome,Windows,POINT(-88.6671 34.3832),United States,false,12.0
+qzqlmp,F,52,Firefox,Windows,POINT(2.3387 48.8582),France,false,21.0
+hmkct2,M,58,Chrome,MacOS X,POINT(4.4919 52.1559),Netherlands,false,9.0
+hkheej,M,72,Chrome,MacOS X,POINT(-79.3716 43.6319),Canada,true,9.0
+wb1z7e,M,70,Chrome,Windows,POINT(-97.822 37.751),United States,false,16.0
+wvrw1h,F,54,Chrome,Windows,POINT(113.722 34.7732),China,true,18.0
+qkvmq9,F,64,Chrome,Windows,POINT(-119.7257 45.8234),United States,false,13.0
+nrs0tx,F,59,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,11.0
+0evrcb,F,33,Safari,MacOS X,POINT(-4.1641 55.811),United Kingdom,true,13.0
+ce2m3e,F,10,Chrome,Windows,POINT(-104.9072 39.9636),United States,true,12.0
+m1y0ai,M,66,Chrome,Windows,POINT(-112.1178 33.8145),United States,true,18.0
+56y6j7,M,61,Chrome,Windows,POINT(139.6895 35.6897),Japan,false,9.0
+bivak3,F,,IE,Windows,POINT(13.4302 54.4232),Germany,true,9.0
+d939xz,F,36,Chrome,MacOS X,POINT(20.6017 41.3254),North Macedonia,false,15.0
+pltbdr,M,64,Chrome,MacOS X,POINT(-0.5883 53.4403),United Kingdom,true,10.0
+t7a8dv,F,38,Chrome,Windows,POINT(106.8272 -6.1728),Indonesia,true,12.0
+wxhfb2,M,65,Chrome,Windows,POINT(-79.0032 35.1407),United States,true,11.0
+fukznb,M,,Chrome,Windows,POINT(139.6895 35.6897),Japan,false,14.0
+ztxxid,,31,Chrome,Windows,POINT(9.7035 55.7755),Denmark,false,20.0
+5rr6w6,F,72,Chrome,MacOS X,POINT(-51.2479 -29.0237),Brazil,false,17.0
+ujhwjh,M,,Chrome,MacOS X,POINT(139.6466 35.4343),Japan,true,11.0
+mqtwp4,M,64,Chrome,Windows,POINT(4.8995 52.3824),Netherlands,false,8.0
+sexcef,F,61,Chrome,Windows,POINT(1.3034 52.6261),United Kingdom,false,17.0
+xko16h,M,58,Chrome,Windows,POINT(-104.9868 39.7388),United States,true,15.0
+xnu66l,M,65,Chrome,Windows,POINT(121.4914 31.2465),China,false,9.0
+807qs2,,56,Chrome,MacOS X,POINT(35.9974 30.9966),Jordan,false,13.0
+8u037g,F,77,Chrome,MacOS X,POINT(104.5452 28.8001),China,false,17.0
+pncdj8,F,53,Chrome,Windows,POINT(23.325 42.6951),Bulgaria,true,12.0
+x2qq5m,M,29,Chrome,Windows,POINT(-99.0111 19.4371),Mexico,false,15.0
+12gvu0,M,,Firefox,Windows,,,true,10.0
+idazpu,M,41,Chrome,Windows,POINT(139.6895 35.6897),Japan,false,11.0
+s6fkqk,M,56,Chrome,Windows,POINT(-97.822 37.751),United States,false,9.0
+4thdm8,F,14,Chrome,Windows,POINT(-97.822 37.751),United States,false,14.0
+zuc8d7,M,43,Chrome,Windows,POINT(21.0362 52.2394),Poland,false,13.0
+2kzln8,F,46,Chrome,Windows,POINT(-97.822 37.751),United States,false,13.0
+brp19m,F,9,Chrome,Windows,POINT(174 -41),New Zealand,false,9.0
+pq1xc2,F,30,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,14.0
+pktalr,M,49,Chrome,Windows,,,true,6.0
+bjgni4,F,45,Chrome,MacOS X,POINT(-72.6871 46.3132),Canada,true,7.0
+q86uqp,M,40,Chrome,MacOS X,POINT(4.3447 50.8509),Belgium,true,8.0
+y2ji7w,F,75,Chrome,Windows,POINT(-97.822 37.751),United States,true,22.0
+0li1du,F,14,Chrome,Windows,POINT(-43.2192 -22.8305),Brazil,false,12.0
+nrsumi,M,65,Chrome,MacOS X,POINT(-97.822 37.751),United States,false,12.0
+uh74ut,M,43,Chrome,Windows,POINT(113.722 34.7732),China,false,11.0
+day03e,F,65,Chrome,Windows,POINT(-8.5294 41.1452),Portugal,false,18.0
+l5e9kf,F,56,Safari,MacOS X,POINT(-97.822 37.751),United States,false,12.0
+qre0ya,F,,Chrome,Windows,POINT(-85.9294 40.9459),United States,true,11.0
+owrfto,F,68,Chrome,MacOS X,POINT(113.722 34.7732),China,true,13.0
+bietay,M,42,Chrome,Windows,POINT(-97.822 37.751),United States,true,10.0
+qvaok6,F,42,Firefox,Windows,POINT(113.5344 34.68),China,false,12.0
+455d4h,F,54,Chrome,Windows,POINT(114.1657 22.2578),Hong Kong,false,11.0
+ark2r2,M,17,Chrome,Windows,POINT(140.3683 38.2468),Japan,false,14.0
+lheneh,M,31,Chrome,Windows,POINT(-97.822 37.751),United States,true,11.0
+uhe284,F,33,Chrome,Windows,POINT(-97.822 37.751),United States,true,10.0
+dxsl9v,M,,Chrome,Linux,POINT(-70.6432 -33.439),Chile,true,9.0
+99vyff,M,70,Chrome,Windows,POINT(19.3188 50.103),Poland,true,11.0
+ouicwu,F,39,Chrome,MacOS X,POINT(3.1468 36.7642),Algeria,false,18.0
+r0g0wa,M,76,Chrome,Linux,POINT(117.1762 39.1488),China,false,12.0
+76qw1b,M,,Chrome,MacOS X,POINT(12.1097 43.1479),Italy,false,8.0
+v67dbf,F,62,Chrome,Windows,POINT(-97.822 37.751),United States,true,13.0
+mvv2u0,,29,Chrome,Windows,POINT(21.1924 52.3275),Poland,true,15.0
+we3joz,M,39,Chrome,Linux,POINT(18.056 59.3247),Sweden,false,17.0
+5vv8jh,M,58,Chrome,Windows,POINT(-97.822 37.751),United States,false,13.0
+aayoah,M,65,Firefox,MacOS X,POINT(-79.442 43.8678),Canada,true,10.0
+g39rs6,M,62,Chrome,Windows,POINT(103.8014 1.3673),Singapore,true,17.0
+378c3y,F,27,Chrome,Windows,POINT(113.722 34.7732),China,true,11.0
+zuyrbp,F,,Chrome,Windows,POINT(9.491 51.2993),Germany,false,10.0
+j7uhi2,M,43,Chrome,Windows,POINT(-79.3716 43.6319),Canada,false,14.0
+bx3ruf,M,44,Chrome,Linux,POINT(24.4317 63.2235),Finland,true,11.0
+xobnv5,F,44,Chrome,MacOS X,POINT(-117.6019 56.1796),Canada,false,13.0
+6bpifm,F,47,Chrome,Windows,POINT(24 -29),South Africa,true,12.0
+1x5twv,M,76,Chrome,Linux,POINT(9.491 51.2993),Germany,true,14.0
+lqssbl,M,,Chrome,Windows,POINT(-157.8725 21.3513),United States,false,12.0
+ffv5pm,M,69,Chrome,MacOS X,POINT(73.7286 18.6161),India,false,11.0
+tt0ev4,M,63,Chrome,MacOS X,POINT(139.6342 35.6964),Japan,true,6.0
+4mjt5k,F,16,Firefox,Windows,POINT(-58.3845 -34.6022),Argentina,false,8.0
+436ucq,F,49,Chrome,Windows,POINT(-97.822 37.751),United States,false,11.0
+dc8yzn,F,43,Chrome,Windows,POINT(139.5612 35.9971),Japan,false,12.0
+xocmzl,F,23,Chrome,Windows,POINT(18.9784 69.6693),Norway,true,13.0
+968ovm,F,42,Chrome,MacOS X,POINT(-97.822 37.751),United States,true,11.0
+da46ci,M,68,Chrome,MacOS X,POINT(-79.3716 43.6319),Canada,true,11.0
+fdq9r1,M,60,Safari,MacOS X,POINT(-15.4098 28.1),Spain,false,10.0
+ihflsa,M,64,Chrome,Windows,POINT(-97.822 37.751),United States,false,5.0
+zvwuph,M,52,Chrome,MacOS X,POINT(-157.823 21.3133),United States,true,11.0
+w3205b,F,53,Chrome,Windows,POINT(-1.1201 37.9921),Spain,true,11.0
+ytbptx,M,27,Chrome,Windows,POINT(-97.822 37.751),United States,true,14.0
+hkr3pw,F,49,Firefox,MacOS X,POINT(31.223 30.0355),Egypt,true,12.0
+kzslqv,M,66,Chrome,MacOS X,POINT(4.3447 50.8509),Belgium,false,14.0
+wwbm8q,M,32,Safari,MacOS X,POINT(-97.822 37.751),United States,true,14.0
+83qbk7,M,23,Safari,MacOS X,POINT(9.491 51.2993),Germany,false,9.0
+esg65i,M,44,Chrome,Windows,POINT(-79.504 43.8304),Canada,true,13.0
+qrrzvt,M,49,Chrome,Windows,POINT(5.9257 43.1263),France,true,12.0
+9xqkk0,F,35,Chrome,MacOS X,POINT(-79.3716 43.6319),Canada,true,10.0
+ju8adr,,50,Chrome,MacOS X,POINT(-81.601 44.1664),Canada,true,15.0
+ww4l83,M,42,Chrome,Windows,POINT(-79.3716 43.6319),Canada,false,12.0
+w7lhor,F,11,Chrome,Windows,POINT(-97.822 37.751),United States,false,7.0
+jhhn6z,F,55,Firefox,Windows,POINT(32.601 -25.9707),Mozambique,true,9.0
+yyo89h,M,71,Chrome,Windows,POINT(21.1803 49.0066),Slovakia,false,15.0
+dl67h2,M,41,Firefox,Windows,POINT(18.056 59.3247),Sweden,true,7.0
+xaa5x6,F,48,Safari,MacOS X,POINT(9.491 51.2993),Germany,false,13.0
+icebfg,F,26,Chrome,Windows,POINT(117.1519 34.1823),China,true,10.0
+i4i2p8,F,50,Chrome,Windows,POINT(-119.7257 45.8234),United States,false,11.0
+q66jbn,F,39,Chrome,Windows,POINT(-96.805 32.7767),United States,true,13.0
+xmmjzs,F,,Chrome,Windows,POINT(-122.8475 42.3394),United States,true,16.0
+6c9jcr,M,,Chrome,Windows,POINT(-97.822 37.751),United States,false,16.0
+r4an04,F,,Firefox,Windows,POINT(127.0639 37.4897),South Korea,false,17.0
+hlq65o,F,46,Edge,Windows,POINT(139.6895 35.6897),Japan,true,11.0
+4coygh,F,52,Chrome,Windows,POINT(24.8133 59.511),Estonia,false,3.0
+erqclh,,,Safari,MacOS X,POINT(7.5942 50.416),Germany,true,10.0
+enm0km,F,59,Chrome,Windows,POINT(-75.515 5.072),Colombia,false,8.0
+8ij9lj,F,67,Chrome,Windows,POINT(-95.1628 43.3197),United States,true,14.0
+gjskms,M,,Chrome,Linux,POINT(106.8272 -6.1728),Indonesia,false,18.0
+iazura,M,70,Chrome,Windows,POINT(37.6068 55.7386),Russia,false,10.0
+oert0v,,76,Safari,MacOS X,POINT(2.3869 48.9163),France,false,19.0
+qwxh1d,F,42,Chrome,Windows,POINT(24.7323 59.433),Estonia,true,16.0
+oblv42,F,78,Safari,MacOS X,POINT(-72.6869 44.4682),United States,true,15.0
+bkdluv,M,48,Chrome,Windows,POINT(28.9757 41.0197),Turkey,false,8.0
+k8p6ck,F,70,Chrome,Windows,POINT(-97.822 37.751),United States,true,10.0
+ya58x3,M,,Chrome,MacOS X,POINT(9.491 51.2993),Germany,false,11.0
+4ogkw1,M,41,Edge,Windows,POINT(104.747 -2.9702),Indonesia,true,8.0
