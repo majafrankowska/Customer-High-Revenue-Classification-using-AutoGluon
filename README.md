@@ -1,5 +1,8 @@
-# 📊 Customer High Revenue Classification using AutoGluon
+#  Customer High Revenue Classification using AutoGluon
 
+Project developed as part of predictive modeling exercises for PUM class at PJATK
+
+---
 ## 🧾 Project Overview
 
 This project uses the **AutoGluon** library to build a classification model that predicts whether a customer will generate high revenue (`high_revenue`). The input data contains user information such as demographics, browser details, IP location, and browsing behavior.
@@ -76,5 +79,3 @@ The best-performing model achieved **~90.9% accuracy** on the validation set. Au
 - The file customers_labeled.csv should be placed in the data/ folder.
 - AutoGluon handles preprocessing and feature encoding automatically.
 - If you encounter Ray or CatBoost-related errors (TimeLimitExceeded), reduce model complexity or increase the training time limit.
-
-Project developed as part of predictive modeling exercises for PUM class at PJATK
